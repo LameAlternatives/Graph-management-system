@@ -1,0 +1,46 @@
+Enq of 0 got: true
+Enq of 1 got: true
+Enq of 2 got: true
+Enq of 3 got: true
+Enq of 4 got: true
+Enq of 5 got: true
+Enq of 6 got: true
+Enq of 7 got: true
+Enq of 8 got: true
+Enq of 9 got: true
+Enq of 10 got: false
+Enq of 11 got: false
+Q size is 10
+Queue item 0 = 0
+Queue item 1 = 1
+Queue item 2 = 2
+Queue item 3 = 3
+Queue item 4 = 4
+Queue item 5 = 5
+Queue item 6 = 6
+Queue item 7 = 7
+Queue item 8 = 8
+Queue item 9 = 9
+Deq got true and v = 0
+Deq got true and v = 1
+Deq got true and v = 2
+Deq got true and v = 3
+Deq got true and v = 4
+Enq of 24 got: true
+Q size is 6
+Queue item 0 = 5
+Queue item 1 = 6
+Queue item 2 = 7
+Queue item 3 = 8
+Queue item 4 = 9
+Queue item 5 = 24
+Deq got true and v = 5
+Deq got true and v = 6
+Deq got true and v = 7
+Deq got true and v = 8
+Deq got true and v = 9
+Q size is 1
+Queue item 0 = 24
+Deq got true and v = 24
+Deq got false and v = -1
+Q size is 0
